@@ -2,7 +2,7 @@ from github import Github
 
 class github_test:
     def __init__(self) :
-        self.token = Github("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")
+        self.token = Github("ghp_d5LhZpFmOh3dCGHT")
         self.repo = self.token.get_repo("rahul-nakum14/test")
         self.file = self.repo.get_contents("")
     
