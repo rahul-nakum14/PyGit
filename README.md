@@ -1,7 +1,8 @@
-#PyGit
+# PyGit  
 
-It is command line tool to Perform *CRUD* Operations in python.. 
+PyGit is a lightweight Python library inspired by Git, offering basic version control functionalities. It simplifies file management tasks within your Python projects.
 
+## Features
 ```
 [1] Get directory Name
 [2] Get list of all file (Not include directory
@@ -11,3 +12,10 @@ It is command line tool to Perform *CRUD* Operations in python..
 [6] Update file
 [7] Delete file
  ```
+## Usage
+
+```
+python pygiy.py
+```
+
+**Note: It Requires the Github Token For the Execution of the Script.**
